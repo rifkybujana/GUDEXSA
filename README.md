@@ -56,3 +56,5 @@ Untuk mendeteksi kebakaran, kami memakai 3 sensor berbeda, yaitu :
 3.	Meminimalisir ukuran alat
 4.	Memperkecil area pemadaman (menjadi 1 titik api)
 5.	Membuat seluruh bagian robot dalam 1 modul (guna mempermudah instalasi/pemasangan)
+
+# for the server we use https://www.blynk.cc/
